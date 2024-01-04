@@ -1,0 +1,96 @@
+body {
+    font-family: "Roboto", "Raleway" sans-serif;
+    color: #2E2F42;;
+    background-color: #ffffff;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+ul, a {
+    list-style-type: none;text-decoration: none;
+}
+
+.logo {
+    font-family: "Raleway", bold;
+    font-size: 18px;
+    color: #2E2F42;
+}
+
+.logo_web {
+    color: #4D5AE5;
+}
+
+.navigation_list {
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.navigation_item {
+    text-decoration: none;
+    color: #2E2F42;
+} 
+
+.contacts {
+    font-family: "Roboto";
+    font-size: 16px;
+    
+}
+
+.address_item {
+    color: #2E2F42;
+}
+
+.hero_image {
+    background-color: #2E2F42;
+    font-family: "Roboto";
+    font-size: 56px;
+    color:#ffffff;
+}
+
+.button {
+    background-color: #4D5AE5;
+    font-family: "Roboto";
+    font-size: 16px;
+    color:#ffffff;
+}
+
+.advantage {
+    font-family: "Roboto";
+    font-size: 24px;
+}
+
+.advantage_text {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #434455;
+}
+
+.our_team {
+    background-color: #F4F4FD;
+}
+
+.section_name {
+    font-family: "Roboto", bold;
+    font-size: 36px;
+}
+
+.name {
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.description {
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+footer {
+    background-color: #2E2F42;
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #ffffff;
+}
+
+.studio {
+    color:#ffffff
+}
